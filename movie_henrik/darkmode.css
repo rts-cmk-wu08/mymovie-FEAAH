@@ -1,0 +1,12 @@
+    @import "style.css";
+    body {
+        background-color: black;
+    }
+    
+    header h1,
+    h3,
+    h4,
+    .now__showingcontainer h2,
+    .popular__container h2 {
+        color: #fff;
+    }
